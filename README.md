@@ -1,0 +1,1 @@
+Build a Calorie Counter based on the requirements mentioned in freeCodeCamp workshop [here is the reference link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/step-97)
